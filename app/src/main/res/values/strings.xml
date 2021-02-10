@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">mvvm app</string>
+    <string name="tv_shows_most_popular">Tv Shows| Most popular</string>
+    <string name="read_more">Read More</string>
+    <string name="read_less">Read Less</string>
+    <string name="u2022">•</string>
+    <string name="website">website</string>
+    <string name="episodes">episodes</string>
+    <string name="watch_list">Watch List</string>
+    <string name="search_tv_show">Search tv show…</string>
+    <string name="No_Internet_Connection">No Internet Connection</string>
+    <string name="no_results">No results</string>
+    <string name="no_tv_shows">No Tv Shows</string>
+</resources>
